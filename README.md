@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0049-group-anagrams) |
 | [0239-sliding-window-maximum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Two Pointers
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0049-group-anagrams) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Greedy
 |  |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0049-group-anagrams) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
@@ -31,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0049-group-anagrams) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |

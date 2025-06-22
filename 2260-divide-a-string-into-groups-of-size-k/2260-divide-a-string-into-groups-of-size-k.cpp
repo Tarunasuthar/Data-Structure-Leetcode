@@ -4,26 +4,20 @@ public:
         int size = s.size();
         vector<string> res;
         string t2;
-        int i=0;
-        while(i<size){
-            string temp;
-            int j=0;
-            while(i<size && j<k){
-                temp = temp + s[i];
-                j++;
-                i++;
+        int i=1;
+        while(i<=size){
+            t2 = t2+s[i-1];
+            if(i%k==0){
+               res.push_back(t2);
+               t2 = "";
             }
-            if(temp.size()==k)
-            res.push_back(temp);
-            else{
-            t2 = temp;
-            }
+            i++;
         }
         if(t2.size()>0 && t2.size()<k){
-        while(t2.size()<k){
-            t2 = t2+fill;
-        }
-        res.push_back(t2);
+            while(t2.size()<k){
+                t2 = t2 + fill;
+            }
+            res.push_back(t2);
         }
         return res;
     }

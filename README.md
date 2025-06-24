@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0897-prime-palindrome](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0897-prime-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+## Ordered Set
+|  |
+| ------- |
+| [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0049-group-anagrams) |
+| [0200-number-of-islands](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -84,11 +85,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0210-course-schedule-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0210-course-schedule-ii) |
 ## Graph
@@ -117,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

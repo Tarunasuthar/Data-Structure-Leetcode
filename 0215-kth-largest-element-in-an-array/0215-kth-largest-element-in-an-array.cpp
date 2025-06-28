@@ -9,7 +9,7 @@ public:
             mp[nums[i]]++;
         }
         int ans;
-        while(!st.empty()){
+        while(!st.empty() && k>0){
             int a = *prev(st.end());
             if(k>mp[a]){
                 k = k-mp[a];

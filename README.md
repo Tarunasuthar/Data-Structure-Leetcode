@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1073-number-of-enclaves](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 ## Ordered Set
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Memoization
 |  |

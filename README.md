@@ -175,4 +175,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0937-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->

@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0897-prime-palindrome) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2605-count-anagrams](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2605-count-anagrams) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0937-online-stock-span) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->

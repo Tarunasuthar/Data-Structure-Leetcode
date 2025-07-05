@@ -1,15 +1,15 @@
 class Solution {
 public:
     int findLucky(vector<int>& arr) {
-        map<int,int> mp;
         int size = arr.size();
+        vector<int> count(501,0);
         for(int i=0;i<size;i++){
-            mp[arr[i]]++;
+            count[arr[i]]++;
         }
         int maxi = -1;
-        for(auto m:mp){
-            if(m.first == m.second){
-                maxi = max(maxi,m.first);
+        for(int i=0;i<501;i++){
+            if(count[i]==i && count[i]!=0){
+                maxi = max(maxi,i);
             }
         }
         return maxi;

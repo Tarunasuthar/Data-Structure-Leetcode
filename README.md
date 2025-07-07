@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 ## Two Pointers
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0015-3sum) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 ## Sorting
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Greedy
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 ## Ordered Set
 |  |

@@ -1,25 +1,13 @@
 class Solution {
 public:
     int findKthLargest(vector<int>& nums, int k) {
-        set<int> st;
-        map<int,int> mp;
-        int size = nums.size();
-        for(int i=0;i<size;i++){
-            st.insert(nums[i]);
-            mp[nums[i]]++;
-        }
-        int ans;
-        while(!st.empty() && k>0){
-            int a = *prev(st.end());
-            if(k>mp[a]){
-                k = k-mp[a];
-                st.erase(a);
-            }
-            else{
-               ans = a;
-               break;
+        priority_queue<int,vector<int>,greater<int>> min_heap;
+        for(auto num:nums){
+            min_heap.push(num);
+            if(min_heap.size()>k){
+                min_heap.pop();
             }
         }
-         return ans;
+        return min_heap.top();
     }
 };

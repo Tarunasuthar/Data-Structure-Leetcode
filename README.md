@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0210-course-schedule-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0937-online-stock-span](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0937-online-stock-span) |
 ## Design
 |  |
@@ -228,4 +230,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0878-shifting-letters](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0878-shifting-letters) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

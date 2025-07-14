@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0897-prime-palindrome](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0897-prime-palindrome) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2605-count-anagrams](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2605-count-anagrams) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->

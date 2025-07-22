@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1694-make-sum-divisible-by-p](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1813-maximum-erasure-value](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
+| [1813-maximum-erasure-value](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2605-count-anagrams](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2605-count-anagrams) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1813-maximum-erasure-value](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1813-maximum-erasure-value) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

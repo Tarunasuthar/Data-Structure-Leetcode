@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0517-super-washing-machines](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0517-super-washing-machines) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0210-course-schedule-ii) |
+| [0322-coin-change](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0322-coin-change) |
 | [1073-number-of-enclaves](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0322-coin-change) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2397-count-number-of-ways-to-place-houses](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2397-count-number-of-ways-to-place-houses) |
 ## Memoization

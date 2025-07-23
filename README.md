@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0517-super-washing-machines](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0517-super-washing-machines) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0049-group-anagrams) |
 | [0878-shifting-letters](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0878-shifting-letters) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2605-count-anagrams](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2605-count-anagrams) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0937-online-stock-span) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Design
 |  |
 | ------- |

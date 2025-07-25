@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0878-shifting-letters](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0878-shifting-letters) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1073-number-of-enclaves](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0517-super-washing-machines](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0517-super-washing-machines) |
+| [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |

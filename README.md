@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1813-maximum-erasure-value](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Number Theory
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -285,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->

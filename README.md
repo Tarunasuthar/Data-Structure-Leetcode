@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0518-coin-change-ii) |

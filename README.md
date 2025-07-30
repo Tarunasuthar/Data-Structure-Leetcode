@@ -297,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0090-subsets-ii) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->

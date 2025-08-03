@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0517-super-washing-machines](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0878-shifting-letters](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0878-shifting-letters) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0049-group-anagrams) |
+| [0523-continuous-subarray-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0897-prime-palindrome](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0897-prime-palindrome) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0878-shifting-letters](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0878-shifting-letters) |
 | [1694-make-sum-divisible-by-p](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1694-make-sum-divisible-by-p) |

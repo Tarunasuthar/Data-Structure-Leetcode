@@ -10,7 +10,7 @@ public:
             maxi = max(maxi,sum);
            }
            else{
-            maxi = min(maxi,sum);
+            maxi = max(maxi,sum);
             sum = 0;
            }
         }

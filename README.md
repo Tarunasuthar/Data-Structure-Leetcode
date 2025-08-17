@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0210-course-schedule-ii) |
 | [1073-number-of-enclaves](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1073-number-of-enclaves) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
 |  |
@@ -188,11 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0322-coin-change) |
 | [1073-number-of-enclaves](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1073-number-of-enclaves) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0210-course-schedule-ii) |
+| [1120-flower-planting-with-no-adjacent](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 ## Topological Sort
 |  |
 | ------- |

@@ -5,7 +5,7 @@ public:
         sort(nums.begin(),nums.end());
         int mini = nums[0];
         int m = 0;
-        for(int i=0;i<size;i++){
+        for(int i=1;i<size;i++){
             m = nums[i]-mini + m;
         }
         return m;

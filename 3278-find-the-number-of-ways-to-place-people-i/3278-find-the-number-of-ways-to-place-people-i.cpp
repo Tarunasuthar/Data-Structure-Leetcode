@@ -16,11 +16,13 @@ public:
                     int k=i+1;
                     int flag = 0;
                     while(k<j){
-                        if((points[k][1]>=lower_y && points[k][1]<=upper_y)){
+                        if((points[k][1]<lower_y || points[k][1]>upper_y)){
+                           k++;
+                        }
+                        else{
                             flag = 1;
                             break;
                         }
-                        k++;
                     }
                     if(flag==0){
                         count++;

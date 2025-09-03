@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0223-rectangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->

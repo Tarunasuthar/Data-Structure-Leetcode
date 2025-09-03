@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Greedy
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2605-count-anagrams](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2605-count-anagrams) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Number Theory
 |  |
@@ -375,5 +379,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->

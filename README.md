@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3830-find-closest-person](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3830-find-closest-person) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |

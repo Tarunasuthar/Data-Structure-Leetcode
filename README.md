@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Number Theory
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
@@ -390,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0223-rectangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->

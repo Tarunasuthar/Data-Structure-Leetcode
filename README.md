@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0182-duplicate-emails) |
 | [0585-investments-in-2016](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0585-investments-in-2016) |
+| [0626-exchange-seats](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1135-customers-who-bought-all-products) |
 ## Geometry
 |  |

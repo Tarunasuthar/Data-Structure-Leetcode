@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0897-prime-palindrome) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2605-count-anagrams](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2605-count-anagrams) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |

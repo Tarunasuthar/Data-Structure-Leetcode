@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0031-next-permutation) |
+| [0151-reverse-words-in-a-string](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0567-permutation-in-string) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0071-simplify-path) |
+| [0151-reverse-words-in-a-string](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0567-permutation-in-string) |
 | [0878-shifting-letters](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0878-shifting-letters) |

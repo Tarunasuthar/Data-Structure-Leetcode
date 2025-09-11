@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0210-course-schedule-ii) |
 | [1073-number-of-enclaves](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1073-number-of-enclaves) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Breadth-First Search
@@ -380,12 +381,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -423,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->

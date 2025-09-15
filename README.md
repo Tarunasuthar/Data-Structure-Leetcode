@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0878-shifting-letters](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0878-shifting-letters) |
 | [0991-array-of-doubled-pairs](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0991-array-of-doubled-pairs) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1073-number-of-enclaves](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1073-number-of-enclaves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Depth-First Search

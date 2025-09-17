@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1153-product-sales-analysis-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1153-product-sales-analysis-i) |
+| [2057-count-salary-categories](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2057-count-salary-categories) |
 ## Geometry
 |  |
 | ------- |

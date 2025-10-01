@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1642-water-bottles](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1642-water-bottles) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2605-count-anagrams](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2605-count-anagrams) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1027-sum-of-even-numbers-after-queries](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1027-sum-of-even-numbers-after-queries) |
+| [1642-water-bottles](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |

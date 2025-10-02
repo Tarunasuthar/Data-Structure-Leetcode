@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0567-permutation-in-string) |
 | [0878-shifting-letters](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0878-shifting-letters) |
+| [1078-remove-outermost-parentheses](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0937-online-stock-span) |
+| [1078-remove-outermost-parentheses](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Design
 |  |

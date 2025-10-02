@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0937-online-stock-span](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Design
 |  |

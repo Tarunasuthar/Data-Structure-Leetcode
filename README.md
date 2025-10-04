@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0036-valid-sudoku) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/0334-increasing-triplet-subsequence) |

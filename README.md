@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3231-minimum-number-of-coins-to-be-added](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3231-minimum-number-of-coins-to-be-added) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Tarunasuthar/Data-Structure-Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
